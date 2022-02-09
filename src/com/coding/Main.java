@@ -1,4 +1,4 @@
-package com.abdourahamane;
+package com.coding;
 
 public class Main {
 
